@@ -30,8 +30,10 @@ Before running this application, ensure you have the following installed:
 
 1.  Clone the repository:
 
-    `git clone https://github.com/Hikaru-e/employee-management-system.git
-    cd employee-management-system/Employee-Front` 
+    ```bash
+    git clone https://github.com/Hikaru-e/employee-management-system.git
+    cd employee-management-system/Employee-Front
+    ```
     
 2.  Install dependencies:
 
